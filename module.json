@@ -1,0 +1,8 @@
+{
+    "name": "Lightbox",
+    "version": "1.0.0",
+    "description": "Lightbox module for zooming images in editor widgets",
+    "authors": ["Flames"],
+    "providers": ["Flute\\Modules\\Lightbox\\Providers\\LightboxProvider"],
+    "dependencies": {}
+}
